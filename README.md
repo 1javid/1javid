@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Javid (spelled as Jaaweed)
-- 👀 I’m interested in Software Engineering specializing in Java (and surely many other technologies in the near future).  
-- 🌱 I’m currently a Senior and doing my CS degree and improving my tech skills on the other side. 
-- 💞️ I’m open to work on any project (as long as there is a passion towards it).
-- 📫 You can reach me at LinkedIn (@Javid Alakbarli).
-
-Here I will be posting exciting projects (pretty subjective, i know) so make sure to check them out!
-
-Review 🔥 on LinkedIn would be very much appreciated!
+Hello all! I'm Javid Alakbarli and I'm a Junior Software Developer, mainly focusing on backend development. My main expertise is in Java, but I also know C++. For now, I am focusing on strengthening my knowledge on Java, but I am always open to new technologies and excited to work with them! 
