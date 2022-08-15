@@ -2,8 +2,8 @@ Hello all! I'm Javid Alakbarli and I'm a Junior Software Developer, mainly focus
 
 My tech skills: Java, Java Swing, Java AWT, HTML, CSS, JavaScript. 
 
-Looking to learn: Spring framework, Node.js, Express.js, Python, MySQL. 
+Looking to learn: Spring framework, Node.js, Express.js, Python, and MySQL.
 
 Learning:
   - Java, PL/SQL
-  - Data Structures & Algorithms
+  - Data Structurezs & Algorithms
