@@ -1,6 +1,6 @@
 Hello all! I'm Javid Alakbarli.
 
-I'm a Software Developer, mainly specializing on backend development.
+I'm a Software Developer, mainly specializing in backend development.
 
 My main expertise is in Java.
 
