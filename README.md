@@ -1,3 +1,15 @@
-Hello all! I'm Javid Alakbarli and I'm a Junior Software Developer, mainly focusing on backend development. My main expertise is in Java, but I also know C++. For now, I am focusing on strengthening my knowledge of Java, but I am always open to new technologies and excited to work with them!  
+Hello all! I'm Javid Alakbarli.
 
-My tech skills: Java (Swing & AWT), HTML, CSS, JavaScript. 
+I'm a Software Developer, mainly specializing on backend development.
+
+My main expertise is in Java.
+
+Always open to new technologies!  
+
+`Languages: Java, C++, HTML, CSS, JavaScript, SQL` <br/>
+`Frameworks: Java Swing & AWT, Spring, Spring Security, SpringBoot` <br/>
+`Database: MySQL` <br/>
+`Version Control: Git, GitHub` <br/>
+`Environments: GitBash, Windows Powershell` <br/>
+
+
