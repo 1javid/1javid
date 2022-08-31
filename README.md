@@ -1,15 +1,22 @@
-Hello all! I'm Javid Alakbarli.
+ ```
+    Hey all! I'm Javid Alakbarli.👋
+ ```
 
-I'm a Software Developer, mainly specializing in backend development.
+<hr/>
 
-My main expertise is in Java.
+ *About Me* 🗯️
+```
+   - I'm a Software Developer, mainly specializing in backend development.  
+   - My main expertise is in Java.
+   - Always open to new technologies!  
+```
+<hr/>
 
-Always open to new technologies!  
-
-`Languages: Java, C++, HTML, CSS, JavaScript, SQL` <br/>
-`Frameworks: Java Swing & AWT, Spring, Spring Security, SpringBoot` <br/>
-`Database: MySQL` <br/>
-`Version Control: Git, GitHub` <br/>
-`Environments: GitBash, Windows Powershell` <br/>
-
-
+ *Hard Skills* 👨‍💻
+```
+   - Languages: Java, C++, HTML, CSS, JavaScript, SQL
+   - Frameworks: Java Swing & AWT, Spring, Spring Security, SpringBoot
+   - Database: MySQL
+   - Version Control: Git, GitHub
+   - Environments: GitBash, Windows Powershell
+```
