@@ -12,11 +12,11 @@
 ```
 <hr/>
 
- *Hard Skills* 👨‍💻
+ *Tech Skills* 👨‍💻
 ```
    - Languages: Java, C++, HTML, CSS, JavaScript, SQL
-   - Frameworks: Java Swing & AWT, Spring, Spring Security, SpringBoot
+   - Frameworks: Java Swing & AWT, Spring/SpringBoot/Spring Data/Spring Security/Spring Cloud
    - Database: MySQL
    - Version Control: Git, GitHub
-   - Environments: GitBash, Windows Powershell
+   - Environments: Git Bash
 ```
