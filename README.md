@@ -15,7 +15,7 @@
  *Tech Skills* 👨‍💻
 ```
    - Languages: Java, C++, HTML, CSS, JS, SQL
-   - Frameworks: Java Swing & AWT, Spring/SpringBoot/Spring Data/Spring Security/Spring Cloud, React
+   - Frameworks: Spring/SpringBoot/Spring Data/Spring Security/Spring Cloud, React
    - Database: MySQL
    - Version Control: Git
    - Environments: Git Bash, PowerShell
