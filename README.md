@@ -16,7 +16,7 @@
 ```
    - Languages: Java, C++, HTML, CSS, JS, SQL
    - Frameworks: Spring/SpringBoot/Spring Data/Spring Security/Spring Cloud, React
-   - Database: MySQL
+   - Databases: MySQL, PostgreSQL
    - Version Control: Git
    - Environments: Git Bash, PowerShell
 ```
