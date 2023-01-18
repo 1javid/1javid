@@ -14,7 +14,7 @@
  *Tech Skills* 👨‍💻
 ```
    - Languages: Java, C++, HTML/CSS/JS, SQL
-   - Libraries/Frameworks: React, Redux
+   - Libraries/Frameworks: React, Redux, Express
    - Databases: MySQL, PostgreSQL
    - Version Control: Git
    - Environments: Git Bash
