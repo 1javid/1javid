@@ -5,5 +5,6 @@
 
  *About Me* 🗯️
 ```
-   - Research Interest: Computer Vision  
+   - Research Interest: Computer Vision / Multipe Object Tracking / Object Re-identification
+   - Machine Learning Engineer @ Innovations Center
 ```
